@@ -1,0 +1,388 @@
+e -----------------URL:httestphp.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/httestphp.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9992s[0m
+e -----------------URL:test.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+http://test.vulnweb.com:80/comment.php?aid=FUZZ
+http://test.vulnweb.com:80/listproducts.php?cat=FUZZ
+http://test.vulnweb.com/redir.php?r=FUZZ
+http://test.vulnweb.com:80/hpp/?pp=FUZZ
+http://test.vulnweb.com:80/artists.php?artist=FUZZ
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 5[31m
+[32m[+] Output is saved here   :[31m [36moutput/test.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9515s[0m
+e -----------------URL:tempphp.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/tempphp.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 1.1590s[0m
+e -----------------URL:testjsp.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/testjsp.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9823s[0m
+e -----------------URL:testap.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+http://testap.vulnweb.com/redir.php?r=FUZZ
+http://testap.vulnweb.com:80/listproducts.php?cat=FUZZ
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 2[31m
+[32m[+] Output is saved here   :[31m [36moutput/testap.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9287s[0m
+e -----------------URL:html.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/html.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 1.4969s[0m
+e -----------------URL:odincovo.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/odincovo.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.917s[0m
+e -----------------URL:homepage.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/homepage.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 1.693s[0m
+e -----------------URL:test.php.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+http://test.php.vulnweb.com:80/listproducts.php?cat=FUZZ
+http://test.php.vulnweb.com:80/comment.php?aid=FUZZ
+http://test.php.vulnweb.com:80/artists.php?artist=FUZZ
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 3[31m
+[32m[+] Output is saved here   :[31m [36moutput/test.php.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.900s[0m
+e -----------------URL:user.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/user.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9517s[0m
+e -----------------URL:www.gd5.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/www.gd5.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9105s[0m
+e -----------------URL:pop.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/pop.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9226s[0m
+e -----------------URL:autoconfig.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/autoconfig.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9485s[0m
+e -----------------URL:blogger.com.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/blogger.com.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 1.2635s[0m
+e -----------------URL:testhp.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+http://testhp.vulnweb.com:80/listproducts.php?cat=FUZZ
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 1[31m
+[32m[+] Output is saved here   :[31m [36moutput/testhp.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9655s[0m
+e -----------------URL:host.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+http://host.vulnweb.com:80/hpp/?pp=FUZZ
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 1[31m
+[32m[+] Output is saved here   :[31m [36moutput/host.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9438s[0m
+e -----------------URL:freebitco.in.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/freebitco.in.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9696s[0m
+e -----------------URL:wsdtest2.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/wsdtest2.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 1.1666s[0m
+e -----------------URL:cyberga.vulnweb.com-----------------
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/cyberga.vulnweb.com.txt[31m
+
+[31m[!] Total execution time      : 0.9648s[0m
+e -----------------URL:tphp.vulnweb.com-----------------

